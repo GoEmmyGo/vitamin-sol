@@ -5,7 +5,8 @@
 
 ### About
 
-If you're finding yourself feeling down, chances are a dose of vitamin D from the sun would do you some good. Many people are defficient in Vitamin D, which can contribute greatly to mood and energy level. Vitamin Sol is website that helps you to calculate how much time outside you need in order to absorb a full daily dose of vitamin D, no matter where you are, what you're wearing or how sunny it is outside!
+If you're finding yourself feeling down, chances are a dose of vitamin D from the sun would do you some good. Many people are defficient in Vitamin D, which can contribute greatly to mood and energy level. Vitamin Sol is simple web app that helps you to calculate how much time outside you need in order to absorb a full daily dose of vitamin D, no matter where you are, what you're wearing or how sunny it is outside!
+
 
 ### How does it work?
 

@@ -44,7 +44,7 @@ const Calculator = () => {
 
       const timeFrames = [newLineSplit[18], newLineSplit[24]].map((str) => {
           const splitter = str.split(':')
-
+          console.log(splitter)
           const timeObject = {
             hours: +splitter[0].trim(),
             mins: +splitter[1].trim()

@@ -1,10 +1,6 @@
 .blurb {
     font-family: 'Oswald', sans-serif;
-    /* font-family: 'Playfair Display', serif; */
-    /* font-family: 'IBM Plex Sans', sans-serif; */
-    /* color: violet; */
     color:#fc6868;
-    /* padding: 5vw; */
     background-image: url('../images/blob-1951x982.png');
     display: flex;
 

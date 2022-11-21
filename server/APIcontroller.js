@@ -1,5 +1,5 @@
 require('dotenv').config()
-const weatherKey = process.env.WEATHER_KEY;
+const weatherKey = process.env.WEATHER_KEY
 const UVIKey = process.env.UVI_KEY
 const express = require('express')
 const axios = require('axios')
@@ -128,6 +128,8 @@ const cloudConversion = {
 const dateGenerator = new Date()
 
 const weatherConfig = (city, country) => {
+
+    console.log(weatherKey)
     return {
     method: 'get',
     url: `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${weatherKey}&units=metric`
